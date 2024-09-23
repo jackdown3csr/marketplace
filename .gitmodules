@@ -1,0 +1,3 @@
+[submodule "cassfaucet/lib/forge-std"]
+	path = cassfaucet/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std.git
